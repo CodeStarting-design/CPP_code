@@ -1,0 +1,11 @@
+This is a txt
+file
+will
+ input 
+ for my cpp program
+test
+my 
+istream_iterator
+
+
+Now test is begin
